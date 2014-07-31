@@ -74,7 +74,7 @@ class kraken:
 
 
 api_version="/0/"
-krak = kraken('UVRsyRqcFmyrs0EuP8XViXJcvGHxbnq3MTK1nqaYa4YGczuwZj2VhJ5t','mgOILAVxPwGKzsZvsxXLaaNNIyghc/Z18ETenyKBK0xhMG+tTLn7vjPEsM7+FuzP92E//AgDzcfVFO7imJNzOg==')
+krak = kraken('','')
 pair='XXBTZEUR'
 
 price=100.0
